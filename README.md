@@ -19,7 +19,7 @@ good
 src="http://img-fotki.yandex.ru/get/3417
 /koziuck-vladimir.1f/0_33a42_9dfed6e1_L"></center>
 <br/><br/>
-<font color=green>Вау, этот текст зеленый</font>
+<font color=#00ff00>Вау, этот текст зеленый</font>
 <br/><br/>
 <b>А этот текст выделен жирным</b>
 <br/><br/>
